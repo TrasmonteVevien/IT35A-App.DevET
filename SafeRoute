@@ -1,0 +1,64 @@
+"SafeRoute: Travel Safety Monitoring App"
+
+Goals: 
+SafeRoute improves travel safety, reduces crime risks, and enhances emergency response, aligning with SDG 3 (Health & Well-Being), SDG 11 (Sustainable Cities), and SDG 16 (Peace & Justice).It also promotes open-source innovation for safer urban mobility.
+
+Role:
+As a mobile/web developer.
+
+Audience:
+Students commuting in the night.
+Workers on late shifts.
+Commuters using public/private transport.
+Emergency responders for faster action.
+
+
+Situation:
+Many cities face unsafe nighttime travel, transport-related crimes, and slow emergency response.
+SafeRoute addresses these problems with real-time tracking, transport verification, and AI-driven risk alerts, making urban travel safer.
+
+
+Objectives:
+SafeRoute ensures the safety of students, workers, and commuters traveling at night. 
+It uses GPS, AI-powered risk detection, and geofencing to monitor travel routes, verify transport details, and send emergency alerts. 
+The app contributes to the UN SDGs by enhancing urban mobility, reducing crime risks, and improving emergency responses.
+
+
+Key SDGs Targeted:
+A. SDG 3: Good Health and Well-Being – Ensures safety during travel.
+B. SDG 11: Sustainable Cities and Communities – Improves public transport safety.
+C. SDG 16: Peace, Justice, and Strong Institutions – Prevents crimes through real-time alerts.
+
+
+Key Features:  
+1.Real-Time Location Tracking – Share location with trusted contacts.
+2.Transport Verification – Verifies vehicle details before boarding.
+3.Geofencing Alerts – Notifies users when leaving or entering safe zones.
+4.Emergency SOS – Alerts emergency contacts and authorities.
+5.AI Risk Detection – Analyzes routes for safer travel suggestions.
+
+
+Technical Architecture:
+Fronten: iOS/Android app (React Native/Flutter).  
+Backend: Cloud-based (AWS/Google Cloud) for real-time data processing.  
+AI & GPS: AI analyzes risks and geofencing technology provides alerts.  
+Alerts & Notifications: If a risk is detected, notifications are sent to users, trusted contacts, or emergency responders.
+Geofencing triggers safe zone entry/exit alerts.
+
+
+Research and Evidence:
+"Urban Travel Safety"
+(AI-based crime prediction reduces travel risks (International Journal of Smart Transportation, 2023)).  
+
+"AI in Public Security"
+(Real-time geofencing improves emergency responses (Journal of Urban Safety, 2022)).  
+
+"SDG 11 Alignment"
+(Tech-driven safety apps contribute to SDG 11 (UN Report on Urban Mobility, 2021)).  
+
+https://bodytrak.co/en-us/news/worker-safety-geolocation-technology-emergency-responses/?fbclid=IwZXh0bgNhZW0CMTAAAR1j_rNl8zTp4mwNxAEzflq8Lng6Da4O7DwuRjdGav7xxn1s4terV5srOyA_aem_VwZcpsjVD1bugujmVmyPMA
+https://search.app/apX7UXpxsy3X4Gf59?fbclid=IwZXh0bgNhZW0CMTAAAR1j_rNl8zTp4mwNxAEzflq8Lng6Da4O7DwuRjdGav7xxn1s4terV5srOyA_aem_VwZcpsjVD1bugujmVmyPMA
+https://search.app/E4zbyHgkxxnecX7h9?fbclid=IwZXh0bgNhZW0CMTAAAR1DQfnolRlnwkNEq46Jh4cy324XaLw45r2AgQbjlZdO3a0HBqij3bHnr3U_aem_L0KkEzguteLSATH2VdmF1w
+
+
+"SafeRoute is a socially responsible solution that enhances sustainable urban travel safety" 
